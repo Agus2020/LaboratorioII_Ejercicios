@@ -1,0 +1,12 @@
+C:\Users\BonClay\Desktop\Utn\C#\Ejercicio4\Calculo\bin\Debug\net6.0\Calculo.deps.json
+C:\Users\BonClay\Desktop\Utn\C#\Ejercicio4\Calculo\bin\Debug\net6.0\Calculo.dll
+C:\Users\BonClay\Desktop\Utn\C#\Ejercicio4\Calculo\bin\Debug\net6.0\Calculo.pdb
+C:\Users\BonClay\Desktop\Utn\C#\Ejercicio4\Calculo\obj\Debug\net6.0\Calculo.csproj.AssemblyReference.cache
+C:\Users\BonClay\Desktop\Utn\C#\Ejercicio4\Calculo\obj\Debug\net6.0\Calculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BonClay\Desktop\Utn\C#\Ejercicio4\Calculo\obj\Debug\net6.0\Calculo.AssemblyInfoInputs.cache
+C:\Users\BonClay\Desktop\Utn\C#\Ejercicio4\Calculo\obj\Debug\net6.0\Calculo.AssemblyInfo.cs
+C:\Users\BonClay\Desktop\Utn\C#\Ejercicio4\Calculo\obj\Debug\net6.0\Calculo.csproj.CoreCompileInputs.cache
+C:\Users\BonClay\Desktop\Utn\C#\Ejercicio4\Calculo\obj\Debug\net6.0\Calculo.dll
+C:\Users\BonClay\Desktop\Utn\C#\Ejercicio4\Calculo\obj\Debug\net6.0\refint\Calculo.dll
+C:\Users\BonClay\Desktop\Utn\C#\Ejercicio4\Calculo\obj\Debug\net6.0\Calculo.pdb
+C:\Users\BonClay\Desktop\Utn\C#\Ejercicio4\Calculo\obj\Debug\net6.0\ref\Calculo.dll
