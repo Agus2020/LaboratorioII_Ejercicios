@@ -8,24 +8,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
         static void Main(string[] args)
         {
             bool resultado;
-            string numeroString;
-            int numero;
-            int min=0;
-            int max=0;
-            int acumulador=0;
-            float prom=0;
-            for (int i=0;i<10;i++)
-            {
-                do
-                {
-                    Console.WriteLine("Ingrese un numero:");
-                    numeroString = Console.ReadLine();
-                    resultado = int.TryParse(numeroString, out numero);
-                } 
-                while (Negocio.Validar.Validador(numero,-100,100)==false);
-                if(i==0)
-                {
-                    min = numero;
+            
                     max = numero;
                     acumulador = numero;
                 }
