@@ -43,7 +43,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
                 }
             }
             prom = acumulador / 10;
-            Console.WriteLine($"El numero maximo es {min}, el numero minimo es {max} y el promedio es {prom}");
+            Console.WriteLine($"El numero maximo es {max}, el numero minimo es {min} y el promedio es {prom}");
         }
     }
 }
