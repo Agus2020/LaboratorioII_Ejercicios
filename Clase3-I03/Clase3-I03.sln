@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase3-I03", "Clase3-I03\Clase3-I03.csproj", "{4F0B7720-AAD2-4931-BC7D-DEDB4A3D7446}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escuela", "Escuela\Escuela.csproj", "{C7E71A3A-FADB-452C-8EB7-7D625CFBD163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F0B7720-AAD2-4931-BC7D-DEDB4A3D7446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F0B7720-AAD2-4931-BC7D-DEDB4A3D7446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F0B7720-AAD2-4931-BC7D-DEDB4A3D7446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F0B7720-AAD2-4931-BC7D-DEDB4A3D7446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7E71A3A-FADB-452C-8EB7-7D625CFBD163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E71A3A-FADB-452C-8EB7-7D625CFBD163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E71A3A-FADB-452C-8EB7-7D625CFBD163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E71A3A-FADB-452C-8EB7-7D625CFBD163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE3B5528-A819-48A4-95B7-F4627806F623}
+	EndGlobalSection
+EndGlobal
